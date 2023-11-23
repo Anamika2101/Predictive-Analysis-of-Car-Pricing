@@ -3,6 +3,12 @@
 # Overview
 This project focuses on the development and evaluation of various regression models to predict the prices of automobiles. The dataset encompasses a range of features such as car make, number of doors, engine size, horsepower, etc., which are essential for the price prediction.
 
+## Files in This Repository
+
+- **CarPrice_Assignment.csv**: Dataset used in the project (https://www.kaggle.com/datasets/hellbuoy/car-price-prediction)
+- **automobile_dataset.csv**: Dataset used in the project (https://archive.ics.uci.edu/dataset/10/automobile).
+- **Predictive Analysis of Car Pricing.ipynb**: Python script for data analysis and model development.
+
 ## Data Preprocessing
 - **Handling Missing Values**: Techniques like mean or median imputation are used to handle missing data points, ensuring the dataset's integrity for analysis.
 - **Categorical to Numeric Transformation**: Categorical variables are encoded to numeric to make them compatible for model input.
